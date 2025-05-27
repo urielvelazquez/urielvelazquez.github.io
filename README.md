@@ -15,19 +15,10 @@ Además, gracias a mi experiencia docente, sé comunicar resultados de forma cla
 
 ¿Te imaginas tomar decisiones con absoluta confianza en la información? ¡Eso es lo que entrego! 📩 Contáctame y pongamos los datos a trabajar.
 
-### Experiencia Laboral
-Analista de datos y soporte técnico TSI VEGA: TECNOLOGÍAS Y SISTEMAS DE INFORMACIÓN 
+### Habilidades técnicas
+Para el análisis de datos: Excel | SQL | Python  
+Para la visualización de datos: MatPlotlib | Seaborn | Tableau
 
-- Analizar datos, validar códigos de productos y realizar pedidos de una tienda de herramientas mediante una aplicación móvil.
+### Competencias
+Intregración de Datos | Limpieza de Datos | Validación de Datos | Análisis de Datos | Pensamiento analítico | Atención al detalle | Trabajo en equipo | Adaptabilidad | Comunicación efectiva | Curiosidad 
 
-- Diseñar esquemas de bases de datos (Modelo Conceptual, Modelo Entidad-Relación).
-
-- Respaldar información que implica hacer una copia de los datos.
-
-- Restaurar sistemas operativos de laptops y computadoras de escritorio.
-
-- Restaurar teléfonos celulares a sus valores de fabrica para solucionar problemas de software, liberar espacio de almacenamiento, eliminar virus y y malware. 
-
-- Actualizar software básico, así como antivirus, actualizaciones de Windows y actualizaciones de controladores.
-
-- Desbloquear contraseña de usuario de inicio de sesión de Windows.
