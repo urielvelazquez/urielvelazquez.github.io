@@ -17,7 +17,7 @@ Además, gracias a mi experiencia docente, sé comunicar resultados de forma cla
 
 ### Habilidades técnicas
 Para el análisis de datos: Excel | SQL | Python  
-Para la visualización de datos: MatPlotlib | Seaborn | Tableau
+Para la visualización de datos: Tableau
 
 ### Competencias
 Intregración de Datos | Limpieza de Datos | Validación de Datos | Análisis de Datos | Pensamiento analítico | Atención al detalle | Trabajo en equipo | Adaptabilidad | Comunicación efectiva | Curiosidad 
