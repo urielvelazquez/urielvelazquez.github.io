@@ -1,3 +1,5 @@
+¡Hola y gracias por visitar mi portafolio!
+
 ### Acerca de mí
 📊 ANALISTA DE DATOS | DE LA INFORMACIÓN A LA ACCIÓN
 
