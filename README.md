@@ -1,19 +1,25 @@
 # Data Analyst
 
 ### Acerca de mí
-Soy Analista de Datos con mentalidad resolutiva y enfoque en impacto real.
+📊 ANALISTA DE DATOS | DE LA INFORMACIÓN A LA ACCIÓN
 
-Trabajo con datos desde el origen hasta la acción:
-- Los integro, los limpio y los valido con precisión.
-- Automatizo tareas y flujos para ganar eficiencia.
-- Diseño reportes que no solo informan: guían decisiones.
+Soy Analista de Datos con una misión clara:
+convertir la información en decisiones más inteligentes, más ágiles y más seguras.
 
-Mi ventaja competitiva es clara:
-No me detengo en el análisis técnico, lo traduzco en soluciones aplicables para quienes toman decisiones.
+- Limpio, integro y valido datos con precisión.
+- Automatizo tareas y flujos para ganar tiempo y eficiencia.
+- Diseño reportes claros que conectan directamente con lo que el negocio necesita decidir.
 
-Además, gracias a mi experiencia docente, sé comunicar resultados de forma clara y persuasiva. Porque de nada sirve el mejor análisis si nadie lo entiende o lo aplica. 
+🎯 ¿Qué me diferencia?
+No me quedo en lo técnico. Mi trabajo termina cuando tú puedes tomar decisiones con total confianza en la información.
 
-¿Te imaginas tomar decisiones con absoluta confianza en la información? ¡Eso es lo que entrego! 📩 Contáctame y pongamos los datos a trabajar.
+Además, gracias a mi experiencia docente, sé comunicar lo complejo de forma simple, accesible y útil.
+
+🧠 Entender los datos no es un lujo, es una necesidad.
+Y contar con alguien que los convierta en resultados puede cambiar por completo la forma en que creces y mejoras.
+
+Si estás buscando a alguien que entienda los datos y sepa usarlos con sentido estratégico, hablemos.
+📩 Estoy listo para ayudarte a llevar el análisis a otro nivel.
 
 ### Habilidades técnicas
 Para el análisis de datos: Excel | SQL | Python  
