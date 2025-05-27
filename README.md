@@ -7,6 +7,7 @@ Licenciatura: Informática Administrativa Grupo Educativo Siglo XXI
 
 ### Experiencia Laboral
 Analista de datos y soporte técnico TSI VEGA: TECNOLOGÍAS Y SISTEMAS DE INFORMACIÓN 
+
 🔷Analizar datos, validar códigos de productos y realizar pedidos de una tienda de herramientas mediante una aplicación móvil.
 
 🔷Diseñar esquemas de bases de datos (Modelo Conceptual, Modelo Entidad-Relación).
