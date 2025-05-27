@@ -19,6 +19,7 @@ Además, gracias a mi experiencia docente, sé comunicar lo complejo de forma si
 Y contar con alguien que los convierta en resultados puede cambiar por completo la forma en que creces y mejoras.
 
 Si estás buscando a alguien que entienda los datos y sepa usarlos con sentido estratégico, hablemos.
+
 📩 Estoy listo para ayudarte a llevar el análisis a otro nivel.
 
 ### Habilidades técnicas
