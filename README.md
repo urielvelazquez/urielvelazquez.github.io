@@ -1,5 +1,3 @@
-# Data Analyst
-
 ### Acerca de mí
 📊 ANALISTA DE DATOS | DE LA INFORMACIÓN A LA ACCIÓN
 
