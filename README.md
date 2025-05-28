@@ -1,4 +1,4 @@
-### Acerca de mí
+# Acerca de mí
 📊 ANALISTA DE DATOS | DE LA INFORMACIÓN A LA ACCIÓN
 
 Soy Analista de Datos con una misión clara:
@@ -63,4 +63,4 @@ Si estás buscando a alguien que entienda los datos y sepa usarlos con sentido e
     <hr style="width: 453px; border: none; height: 1px; background-color: #d1d5da; margin-left: auto; margin-right: auto; transform: translateX(13px);">
 </div>
 
-## Proyectos
+# Proyectos
