@@ -59,4 +59,7 @@ Si estás buscando a alguien que entienda los datos y sepa usarlos con sentido e
   </a>
 </p>
 
-<hr style="border: none; height: 1px; background-color: #d1d5da;">
+<div align="center">
+  <hr style="width: 480px; border: none; height: 1px; background-color: #d1d5da;">
+</div>
+
