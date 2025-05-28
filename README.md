@@ -44,6 +44,16 @@ Si estás buscando a alguien que entienda los datos y sepa usarlos con sentido e
   
 - **Adaptabilidad:** Me muevo con soltura entre distintos entornos, industrias y herramientas.
 
+</p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/urielvelazquez/">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:leirulia0576@gmail.com">
+    <img src="https://img.shields.io/badge/Contáctame-%23000000.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+</p>
+
 - **Comunicación efectiva:** Traduzco lo técnico en claro. Lo complejo en útil.
   
 - **Curiosidad:** No me conformo con lo básico. Siempre busco entender más allá, encontrar patrones, descubrir oportunidades.
