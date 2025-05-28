@@ -65,7 +65,8 @@ Si estás buscando a alguien que entienda los datos y sepa usarlos con sentido e
 
 # Proyectos
 
-## 📊 ¿Qué Hace Exitoso a un Videojuego? Un Estudio de Datos para Ice Store
+### 1
+### ¿Qué Hace Exitoso a un Videojuego? Un Estudio de Datos para Ice Store
 
 ### Objetivo del proyecto
 
