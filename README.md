@@ -54,13 +54,11 @@ Si estás buscando a alguien que entienda los datos y sepa usarlos con sentido e
   <a href="https://www.linkedin.com/in/urielvelazquez" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%232A5D9F.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="mailto:leirulia0576@gmail.com">
+  <a href="https://mail.google.com/mail/?view=cm&to=leirulia0576@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-%232A5D9F.svg?style=for-the-badge&logoColor=white" alt="Gmail">
   </a>
 </p>
 
-<p align="center">
-  <hr style="width: 200px; border: 0; height: 1px; background: #d1d5da;">
-</p>
-
-
+<div align="center">
+  <hr style="width: 280px; border: none; height: 1px; background-color: #d1d5da;">
+</div>
