@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="/assets/css/hide-footer.css">
+
 ### Acerca de mí
 📊 ANALISTA DE DATOS | DE LA INFORMACIÓN A LA ACCIÓN
 
