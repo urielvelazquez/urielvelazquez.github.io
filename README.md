@@ -1,4 +1,8 @@
-<link rel="stylesheet" href="/assets/css/hide-footer.css">
+<style>
+.footer {
+  display: none !important;
+}
+</style>
 
 ### Acerca de mí
 📊 ANALISTA DE DATOS | DE LA INFORMACIÓN A LA ACCIÓN
