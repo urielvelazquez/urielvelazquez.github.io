@@ -36,7 +36,8 @@ Si estás buscando a alguien que entienda los datos y sepa usarlos con sentido e
 
 ### Competencias
 
-- "Pensamiento crítico" Analizo con profundidad, separo lo importante de lo irrelevante y conecto los datos.
+- **Pensamiento crítico
+  Analizo con profundidad, separo lo importante de lo irrelevante y conecto los datos.
 
 - Atención al detalle
   Me enfoco en la precisión porque sé que un solo dato puede cambiar el rumbo de una estrategia. 
