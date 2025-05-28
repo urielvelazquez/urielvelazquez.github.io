@@ -65,4 +65,14 @@ Si estás buscando a alguien que entienda los datos y sepa usarlos con sentido e
 
 # Proyectos
 
-### 📊 ¿Qué Hace Exitoso a un Videojuego? Un Estudio de Datos para Ice Store
+## 📊 ¿Qué Hace Exitoso a un Videojuego? Un Estudio de Datos para Ice Store
+
+### Objetivo del proyecto
+
+Identificar los factores clave que determinan el éxito comercial de un videojuego a partir del análisis de datos históricos (reseñas, géneros, plataformas, ventas, etc.), con el fin de:
+
+- Predecir el potencial de nuevos lanzamientos
+
+- Optimizar decisiones de marketing
+
+- Detectar oportunidades para campañas publicitarias efectivas
