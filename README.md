@@ -1,9 +1,3 @@
-<style>
-.footer {
-  display: none !important;
-}
-</style>
-
 ### Acerca de mí
 📊 ANALISTA DE DATOS | DE LA INFORMACIÓN A LA ACCIÓN
 
@@ -27,8 +21,20 @@ Si estás buscando a alguien que entienda los datos y sepa usarlos con sentido e
 📩 Estoy listo para ayudarte a llevar el análisis a otro nivel.
 
 ### Habilidades técnicas
-Para el análisis de datos: Excel | SQL | Python  
-Para la visualización de datos: Tableau
+
+Herramientas de análisis y automatización
+
+- Excel avanzado (Power Query, Tablas dinámicas, fórmulas complejas)
+
+- SQL (Consultas, Joins, Limpieza y Transformación de datos)
+
+- Tableau (Modelado de datos, Dashboards interactivos)
+
+- Python (Pandas, Numpy, Scipy, Matplotlib, Seaborn)
+
+- Google Sheets
+
+- Git, GitHub, Visual Studio Code, Docker
 
 ### Competencias
 Intregración de Datos | Limpieza de Datos | Validación de Datos | Análisis de Datos | Pensamiento analítico | Atención al detalle | Trabajo en equipo | Adaptabilidad | Comunicación efectiva | Curiosidad 
