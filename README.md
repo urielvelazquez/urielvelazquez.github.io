@@ -36,23 +36,17 @@ Si estás buscando a alguien que entienda los datos y sepa usarlos con sentido e
 
 ### Competencias
 
-- **Pensamiento crítico**: Analizo con profundidad, separo lo importante de lo irrelevante y conecto los datos.
+- **Pensamiento crítico:** Analizo con profundidad, separo lo importante de lo irrelevante y conecto los datos.
 
-- Atención al detalle
-  Me enfoco en la precisión porque sé que un solo dato puede cambiar el rumbo de una estrategia. 
+- **Atención al detalle:** Me enfoco en la precisión porque sé que un solo dato puede cambiar el rumbo de una estrategia. 
 
-- Trabajo en equipo
-  Me adapto y colaboro con perfiles diversos, entendiendo que los mejores resultados nacen del intercambio de ideas bien comunicadas.
+- **Trabajo en equipo:** Me adapto y colaboro con perfiles diversos, entendiendo que los mejores resultados nacen del intercambio de ideas bien comunicadas.
   
-- Adaptabilidad
-  Me muevo con soltura entre distintos entornos, industrias y herramientas.
+- **Adaptabilidad:** Me muevo con soltura entre distintos entornos, industrias y herramientas.
 
-- Comunicación efectiva
-  Traduzco lo técnico en claro. Lo complejo en útil.
+- **Comunicación efectiva:** Traduzco lo técnico en claro. Lo complejo en útil.
   
-- Curiosidad
-  No me conformo con lo básico. Siempre busco entender más allá, encontrar patrones, descubrir oportunidades.
+- **Curiosidad:** No me conformo con lo básico. Siempre busco entender más allá, encontrar patrones, descubrir oportunidades.
 
-- Resolución de Problemas
-  No me detengo en el “qué pasó”, voy al “por qué” y sobre todo al “cómo lo resolvemos”.
+- **Resolución de Problemas:** No me detengo en el “qué pasó”, voy al “por qué” y sobre todo al “cómo lo resolvemos”.
 
