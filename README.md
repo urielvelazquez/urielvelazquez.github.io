@@ -22,8 +22,6 @@ Si estás buscando a alguien que entienda los datos y sepa usarlos con sentido e
 
 ### Habilidades técnicas
 
-Herramientas de análisis y automatización
-
 - Excel avanzado (Power Query, Tablas dinámicas, fórmulas complejas)
 
 - SQL (Consultas, Joins, Limpieza y Transformación de datos)
@@ -32,10 +30,30 @@ Herramientas de análisis y automatización
 
 - Python (Pandas, Numpy, Scipy, Matplotlib, Seaborn)
 
-- Google Sheets
+- Google Sheets (Formularios conectados, Tablas dinámicas, fórmulas inteligentes)
 
 - Git, GitHub, Visual Studio Code, Docker
 
 ### Competencias
-Intregración de Datos | Limpieza de Datos | Validación de Datos | Análisis de Datos | Pensamiento analítico | Atención al detalle | Trabajo en equipo | Adaptabilidad | Comunicación efectiva | Curiosidad 
+
+- Pensamiento crítico
+  Analizo con profundidad, separo lo importante de lo irrelevante y conecto los datos.
+
+- Atención al detalle
+  Me enfoco en la precisión porque sé que un solo dato puede cambiar el rumbo de una estrategia. 
+
+- Trabajo en equipo
+  Me adapto y colaboro con perfiles diversos, entendiendo que los mejores resultados nacen del intercambio de ideas bien comunicadas.
+  
+- Adaptabilidad
+  Me muevo con soltura entre distintos entornos, industrias y herramientas.
+
+- Comunicación efectiva
+  Traduzco lo técnico en claro. Lo complejo en útil.
+  
+- Curiosidad
+  No me conformo con lo básico. Siempre busco entender más allá, encontrar patrones, descubrir oportunidades.
+
+- Resolución de Problemas
+  No me detengo en el “qué pasó”, voy al “por qué” y sobre todo al “cómo lo resolvemos”.
 
