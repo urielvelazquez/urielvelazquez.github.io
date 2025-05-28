@@ -66,7 +66,7 @@ Si estás buscando a alguien que entienda los datos y sepa usarlos con sentido e
 # Proyectos
 
 ### 1
-### ¿Qué Hace Exitoso a un Videojuego? Un Estudio de Datos para Ice Store
+### ¿Qué hace exitoso a un videojuego? Un estudio de datos para Ice Store
 
 ### Objetivo del proyecto
 
@@ -78,7 +78,7 @@ Identificar los factores clave que determinan el éxito comercial de un videojue
 
 - Detectar oportunidades para campañas publicitarias efectivas
 
-#### Lenguaje de programación, librerías y técnicas
+#### Lenguaje de programación, librerías y habilidades 
 ![Python](https://img.shields.io/badge/PYTHON-%232A5D9F.svg?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/PANDAS-%232A5D9F.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NUMPY-%232A5D9F.svg?style=for-the-badge&logo=numpy&logoColor=white)
@@ -89,3 +89,9 @@ Identificar los factores clave que determinan el éxito comercial de un videojue
 ![Análisis de Datos](https://img.shields.io/badge/ANÁLISIS%20DE%20DATOS-%233B7DD8.svg?style=for-the-badge&logoColor=white)
 ![Análisis Estadístico](https://img.shields.io/badge/ANÁLISIS%20ESTADÍSTICO-%233B7DD8.svg?style=for-the-badge&logoColor=white)
 
+#### Preguntas clave
+- Mira cuántos juegos fueron lanzados en diferentes años. ¿Son significativos los datos de cada período?
+
+- ¿Qué plataformas son líderes en ventas? ¿Cuáles crecen y cuáles se reducen? Elige varias plataformas potencialmente rentables.
+
+- Echa un vistazo a la distribución general de los juegos por género. ¿Qué se puede decir de los géneros más rentables? ¿Puedes generalizar acerca de los géneros con ventas altas y bajas?
