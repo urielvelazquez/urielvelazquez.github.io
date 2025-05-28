@@ -1,6 +1,7 @@
 title: Uriel Velazquez Garduño
 logo: /assets/img/logo.png
-description: ¡Hola y gracias por visitar mi portafolio! 
+description: ¡Hola y gracias por visitar mi portafolio!
+theme: jekyll-theme-minimal
 show_downloads: true
 # google_analytics:
-theme: jekyll-theme-minimal
+
