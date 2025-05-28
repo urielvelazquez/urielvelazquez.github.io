@@ -110,4 +110,7 @@ Los hallazgos obtenidos no solo mejoran el rendimiento a corto plazo, sino que t
 
 #### Visualizaciones destacadas
 - **Evolución del número de videojuegos lanzados por año a lo largo del tiempo:** Se puede observar que el lanzamiento de videojuegos alcanzó un boom entre el año 2008 y 2009 pero que sufrió una abrumadora caída en ventas a consecuencia de la crisis financiera, también conocida como la Gran Recesión, que fue una crisis económica mundial que se originó en los Estados Unidos y esta fue causada por la crisis de las hipotecas, cuando los deudores con alto riesgo crediticio no pudieron pagar sus créditos hipotecarios; no sólo la industria de los videojuegos se vío afectada por este suceso sino muchos áreas de consumo y realmente fueron pocos los sectores que no se vieron afectados, al haber poca demanda disminuyó la producción de videojuegos y con ello una caída considerable en la industria. Además se visualiza que a partir del año 2000 la revolución tecnológica en la industria motivo a que se generará un boom, se puede ver también que el crecimiento en este sector comienza a darse a partir del año 1995.
+
+![Gráfica de evolución de lanzamientos](assets/img/p1_v1.png)
+
   
