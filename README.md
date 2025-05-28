@@ -95,3 +95,11 @@ Identificar los factores clave que determinan el éxito comercial de un videojue
 - ¿Qué plataformas son líderes en ventas? ¿Cuáles crecen y cuáles se reducen? Elige varias plataformas potencialmente rentables.
 
 - Echa un vistazo a la distribución general de los juegos por género. ¿Qué se puede decir de los géneros más rentables? ¿Puedes generalizar acerca de los géneros con ventas altas y bajas?
+
+#### Metodología 
+- **Preprocesamiento de datos:** Se limpiaron y ajustaron los datos: se corrigieron tipos, se eliminaron duplicados y se trataron valores faltantes (como los marcados como “TBD”). También se creó una nueva columna que sumaba las ventas totales por juego, unificando todas las regiones.
+
+- **Análisis exploratorio de datos (EDA):** Se revisó la cantidad de juegos por año, las plataformas con más ventas y cómo cambian con el tiempo. También se analizaron géneros, calificaciones y diferencias regionales. Se usaron visualizaciones y estadísticas básicas para entender los patrones más importantes.
+
+- **Análisis estadístico de datos:** Se hicieron comparaciones entre plataformas y géneros, usando pruebas de hipótesis. Se midieron relaciones entre calificaciones y ventas para entender si influyen en el éxito. Todo con base en datos reales y evidencia clara.
+:
