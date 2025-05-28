@@ -64,3 +64,5 @@ Si estás buscando a alguien que entienda los datos y sepa usarlos con sentido e
 </div>
 
 # Proyectos
+
+### 📊 ¿Qué Hace Exitoso a un Videojuego? Un Estudio de Datos para Ice Store
