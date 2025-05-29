@@ -113,4 +113,9 @@ Los hallazgos obtenidos no solo mejoran el rendimiento a corto plazo, sino que t
 
 ![Gráfica de evolución de lanzamientos](assets/img/p1_v1.png)
 
+- **Distribución de las ventas globales:** Se puede ver en el diagrama de caja que la plataforma PlayStation es quien lidera las ventas con sus consolas PS4 y PS3 con una diferencia significativa con respecto a su más cercano competidor que es Xbox con sus consolas XOne y X360 seguido de la plataforma Nintenido con su consola 3DS, donde además se puede observar que es muy extrecha la diferencia de ventas entre esta y las pertenecientes a Xbox ya comentadas;  el resto de las plataformas que se muestran en la gráfica son poco o nada representantivas en cuanto a sus ventas ya que hay una diferencia significativa con respecto a las principales plataformas entre las menos rentables se encuentra Wii U de Nintendo, PC (videojuegos de computadora), PSV y PSP pertenecientes ambas consolas a la familia PlayStation, y finalmente DS de Nintendo. Con respecto a las ventas promedio de las diferentes plataformas se puede apreciar que nunca estuvieron en el nivel medio sino que siempre estuvieron en constante movimiento respecto de su nivel de ventas porque en varios de los casos el mayor porcentaje de ventas se dio entre el 1er y 2do cuartil, en algunos otros casos el mayor porcentaje de ventas estuvo entre el segundo y tercer cuartil y sólo en tres plataformas se mantuvo en un nivel promedio (3DS, PSV, y XOne) y en el caso de las consolas DS de Nintendo y PSP de PlayStation no son nada representativos sus datos con respectivo a el nivel de ventas.
+
+![Gráfica de distribución de ventas globales por plataforma](assets/img/p1_v2.png)
+
+
   
