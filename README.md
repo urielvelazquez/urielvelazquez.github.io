@@ -123,6 +123,8 @@ Los hallazgos obtenidos no solo mejoran el rendimiento a corto plazo, sino que t
 
 **Te invito a visitar el** [repositorio completo.](https://github.com/urielvelazquez/proyecto-integrado-videojuegos/tree/main)
 
+### ¿Cuándo un cliente empieza a valer la inversión? Un viaje por los datos de Showz
 
+#### Objetivo del proyecto
 
   
