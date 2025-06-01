@@ -121,7 +121,7 @@ Los hallazgos obtenidos no solo mejoran el rendimiento a corto plazo, sino que t
 
 ![Gráfica de comparación de ventas de los mismos videojuegos en otras plataformas](assets/img/p1_v3.png)
 
-Si te interesa el análisis completo, te invito a visitar el [repositorio del proyecto](https://github.com/urielvelazquez/data-analyst-portfolio/tree/main/proyecto-integrado-uno).
+Te invito a visitar el [repositorio del proyecto](./proyecto-integrado-videojuegos).
 
 
 
