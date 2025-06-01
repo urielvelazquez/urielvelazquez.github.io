@@ -127,4 +127,15 @@ Los hallazgos obtenidos no solo mejoran el rendimiento a corto plazo, sino que t
 
 #### Objetivo del proyecto
 
+Analizar el comportamiento de los usuarios y los datos históricos de ventas, visitas y marketing para:
+
+- Identificar fuentes de adquisición de clientes más rentables
+
+- Calcular métricas clave como CAC, LTV y ROMI
+
+- Determinar el momento en que los ingresos compensan el costo de adquisición
+
+- Optimizar estrategias de marketing para mejorar la rentabilidad y eficiencia de futuras campañas
+
+
   
