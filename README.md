@@ -68,7 +68,6 @@ Si estás buscando a alguien que entienda los datos y sepa usarlos con sentido e
 ### ¿Qué hace exitoso a un videojuego? Un estudio de datos para Ice Store
 
 #### Objetivo del proyecto
-
 Identificar los factores clave que determinan el éxito comercial de un videojuego a partir del análisis de datos históricos (reseñas, géneros, plataformas, ventas, etc.), con el fin de:
 
 - Predecir el potencial de nuevos lanzamientos
@@ -126,7 +125,6 @@ Los hallazgos obtenidos no solo mejoran el rendimiento a corto plazo, sino que t
 ### ¿Cuándo un cliente empieza a valer la inversión? Un viaje por los datos de Showz
 
 #### Objetivo del proyecto
-
 Analizar el comportamiento de los usuarios y los datos históricos de ventas, visitas y marketing para:
 
 - Identificar fuentes de adquisición de clientes más rentables
@@ -149,5 +147,14 @@ Analizar el comportamiento de los usuarios y los datos históricos de ventas, vi
 ![Análisis de Cohortes](https://img.shields.io/badge/ANÁLISIS%20DE%20COHORTES-%233B7DD8.svg?style=for-the-badge&logoColor=white)
 ![Visualización de Datos](https://img.shields.io/badge/VISUALIZACIÓN%20DE%20DATOS-%233B7DD8.svg?style=for-the-badge&logoColor=white)
 
+#### Preguntas clave
+- ¿Cuántas personas usan el sitio web diariamente, semanalmente y mensualmente?
 
+- ¿Qué canales de adquisición generan clientes con mayor LTV?
+
+- ¿Qué combinación de fuente más dispositivo muestra mejor rendimiento?
+
+- ¿Qué métricas son determinantes para decidir en qué canales se debe invertir?
   
+#### Metodología 
+- **Preprocesamiento de datos:** Se limpiaron y ajustaron los datos: se corrigieron tipos, se eliminaron duplicados y se trataron valores faltantes.
