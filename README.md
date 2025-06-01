@@ -60,7 +60,7 @@ Si estás buscando a alguien que entienda los datos y sepa usarlos con sentido e
 </p>
 
 <div align="center">
-    <hr style="width: 543px; border: none; height: 1px; background-color: #d1d5da; margin-left: auto; margin-right: auto; transform: translateX(13px);">
+    <hr style="width: 583px; border: none; height: 1px; background-color: #d1d5da; margin-left: auto; margin-right: auto; transform: translateX(9px);">
 </div>
 
 # Proyectos
