@@ -185,3 +185,7 @@ Es clave diversificar la inversión entre fuentes estables y fuentes de alto imp
 - **LTV (Valor del ciclo de vida del cliente) por cohorte:** Cada cliente de la primera cohorte representó un ingreso de $11.08. Además, la cohorte de septiembre de 2017 representó ingresos de $13.44 por cliente. Algunas cohortes, como las que iniciaron en los meses de invierno tienden a tener valores más altos de vida del cliente en comparación con otras.
 
 ![Gráfica del valor de vida del cliente](assets/img/p2_v2.png)
+
+- **Evolución mensual de los costos por fuente de adquisición:** Esta gráfica de área muestra el comportamiento mensual de los costos por fuente, con un aumento significativo en noviembre por campañas como Black Friday y Cyber Monday.Las fuentes que generan mayor inversión son la de color verde, seguida de la morada y la roja, y en menor medida la amarilla. Las fuentes azul, violeta y café representan en conjunto un mejor costo de inversión con menor impacto individual.
+
+![Gráfica de la evolución mensual de los costos por fuente de adquisición](assets/img/p2_v3.png)
