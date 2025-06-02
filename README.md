@@ -306,3 +306,6 @@ Analizar el comportamiento del usuario dentro de la aplicación de una empresa e
 Basado en un análisis más conservador (α=0.01), los grupos no muestran diferencias significativas en todos los eventos. Esto sugiere que las fuentes alteradas no tienen un efecto significativo sobre la participación del usuario.
 
 #### Visualizaciones destacadas
+- **Evolución del número de eventos registrados por día:** Se obseva que del 25 al 31 de julio de 2019, el número de eventos fue bajo y estable. A partir del 1 de agosto, hubo un incremento drástico, con un pico de 36,000 eventos. Posteriormente, la actividad se mantuvo alta pero con variaciones, posiblemente por cambios internos o comportamientos cíclicos.
+
+![Gráfica de la evolución del número de eventos registrados por día](assets/img/p4_v1.png)
