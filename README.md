@@ -178,3 +178,6 @@ El análisis realizado permitió evaluar las estrategias de marketing con base e
 Es clave diversificar la inversión entre fuentes estables y fuentes de alto impacto, adaptando la estrategia a las condiciones del mercado. Mientras el LTV se mantenga elevado, es válido invertir incluso en canales con CAC más alto, siempre que el ROMI siga siendo positivo.
 
 #### Visualizaciones destacadas
+- **Evolución del tráfico de usuarios en la plataforma Showz:** Después de analizar las visitas por días, semanas y meses, se observa un movimiento constante con subidas y bajadas marcadas en cada periodo. El pico más alto de tráfico ocurre entre la tercera semana de noviembre y la segunda de diciembre. Durante las vacaciones de verano, las visitas disminuyen, ya que los usuarios priorizan actividades sociales y recreativas.
+
+![Gráfica de evolución del tráfico de usuarios](assets/img/p2_v1.png)
