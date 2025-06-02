@@ -191,3 +191,14 @@ Es clave diversificar la inversión entre fuentes estables y fuentes de alto imp
 ![Gráfica de la evolución mensual de los costos por fuente de adquisición](assets/img/p2_v3.png)
 
 **Conoce todos los detalles en el** [repositorio completo.](https://github.com/urielvelazquez/analisis-de-negocio/tree/main)
+
+### ¿Qué Funciona Realmente? Priorización de Ideas y Validación con puebas A/B
+
+#### Objetivo del proyecto
+Evaluar y priorizar hipótesis de crecimiento y analizar los resultados de una prueba A/B con base en datos reales de usuarios, con el fin de:
+
+- Determinar las estrategias con mayor impacto potencial en los ingresos
+
+- Validar la efectividad de cambios en el comportamiento de compra
+
+- Tomar decisiones basadas en datos para optimizar campañas de marketing y experiencia del usuario
