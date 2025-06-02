@@ -165,3 +165,16 @@ Analizar el comportamiento de los usuarios y los datos históricos de ventas, vi
 
 - **Evaluación de Estrategias de Marketing:** Se calcularon métricas como el Costo de Adquisición de Clientes (CAC), el Retorno de la Inversión en Marketing (ROMI) y los costos por fuente de adquisición, para identificar los canales más rentables y orientar la toma de decisiones estratégicas.
 
+#### Conclusión general
+El análisis realizado permitió evaluar las estrategias de marketing con base en métricas clave como el CAC (Costo de Adquisición de Clientes), el ROMI (Retorno de la Inversión en Marketing) y el LTV (Valor del Ciclo de Vida del Cliente). Estas métricas revelaron insights sólidos para la optimización de campañas y asignación de presupuesto.
+
+#### Recomendaciones
+- Fuente 1: por su estabilidad y eficiencia, ideal para estrategias sostenidas a largo plazo.
+
+- Fuente 2: por su consistencia en resultados y bajo CAC, representa una inversión inteligente y continua.
+
+- Fuente 4: puede ser rentable en periodos de alta demanda, pero requiere seguimiento constante para asegurar que su alto CAC se compense con un LTV favorable.
+
+Es clave diversificar la inversión entre fuentes estables y fuentes de alto impacto, adaptando la estrategia a las condiciones del mercado. Mientras el LTV se mantenga elevado, es válido invertir incluso en canales con CAC más alto, siempre que el ROMI siga siendo positivo.
+
+#### Visualizaciones destacadas
