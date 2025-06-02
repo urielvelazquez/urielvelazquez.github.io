@@ -250,4 +250,4 @@ Basándose en estos hechos, hay que parar la prueba y considerar al Grupo B como
 
 ![Gráfica de la diferencia relativa en el tamaño de pedido promedio acumulado](assets/img/p3_v2.png)
 
-**Conoce todos los detalles en el** [repositorio completo.](https://github.com/urielvelazquez/analisis-de-negocio/tree/main)
+**Conoce todos los detalles en el** [repositorio completo.](https://github.com/urielvelazquez/tomar-decisiones-de-negocio-basadas-en-datos/tree/main)
