@@ -120,7 +120,7 @@ Los hallazgos obtenidos no solo mejoran el rendimiento a corto plazo, sino que t
 
 ![Gráfica de comparación de ventas de los mismos videojuegos en otras plataformas](assets/img/p1_v3.png)
 
-**Te invito a visitar el** [repositorio completo.](https://github.com/urielvelazquez/proyecto-integrado-videojuegos/tree/main)
+**Conoce todos los detalles en el** [repositorio completo.](https://github.com/urielvelazquez/proyecto-integrado-videojuegos/tree/main)
 
 ### ¿Cuándo un cliente empieza a valer la inversión? Un viaje por los datos de Showz
 
@@ -189,3 +189,5 @@ Es clave diversificar la inversión entre fuentes estables y fuentes de alto imp
 - **Evolución mensual de los costos por fuente de adquisición:** Esta gráfica de área muestra el comportamiento mensual de los costos por fuente, con un aumento significativo en noviembre por campañas como Black Friday y Cyber Monday.Las fuentes que generan mayor inversión son la de color verde, seguida de la morada y la roja, y en menor medida la amarilla. Las fuentes azul, violeta y café representan en conjunto un mejor costo de inversión con menor impacto individual.
 
 ![Gráfica de la evolución mensual de los costos por fuente de adquisición](assets/img/p2_v3.png)
+
+**Conoce todos los detalles en el** [repositorio completo.](https://github.com/urielvelazquez/metricasmarketing/tree/main)
