@@ -224,3 +224,21 @@ Evaluar y priorizar hipótesis de crecimiento y analizar los resultados de una p
 - ¿Debería detenerse o continuar la prueba A/B con base en los resultados obtenidos y las anomalías detectadas?
 
 #### Metodología
+- **Preprocesamiento de datos:** Se limpiaron y ajustaron los datos: se corrigieron tipos, se eliminaron duplicados y se trataron valores faltantes.
+
+- **Priorizar hipótesis:** Se aplicaron los frameworks ICE (Impact, Confidence, Effort) y RICE (Reach, Impact, Confidence, Effort) para evaluar y priorizar las hipótesis propuestas por el departamento de marketing.
+
+- **Análisis de pruebas A/B:** Se analizaron los datos para calcular las tasas de conversión diarias por grupo y se aplicaron pruebas de hipótesis estadísticas sobre conversiones y tamaños de pedidos con y sin datos filtrados.
+
+#### Conclusión general
+- Los datos sin procesar y los filtrados revelaron diferencias estadísticamente significativas en la conversión entre los grupos.
+
+- Ni los datos sin procesar ni los filtrados revelaron diferencias estadísticamente significativas en el tamaño promedio de los pedidos entre los grupos.
+
+- La gráfica que muestra la diferencia relativa para las tasas de conversión entre los grupos dice que los resultados del Grupo B son mejores y parecen mantenerse en ese sentido a lo largo del periodo.
+
+- La gráfica que muestra la diferencia relativa en el tamaño de pedido promedio acumulado entre los grupos dice que los resultados del Grupo B son mejores día tras día y actualmente son un 30% más altos que los del Grupo A.
+
+Basándose en estos hechos, hay que parar la prueba y considerar al Grupo B como líder. No tiene sentido continuar, ya que la probabilidad de que el Grupo B resulte ser mejor que el Grupo A es real.
+
+#### Visualizaciones destacadas
