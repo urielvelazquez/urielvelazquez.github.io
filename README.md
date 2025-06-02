@@ -192,7 +192,7 @@ Es clave diversificar la inversión entre fuentes estables y fuentes de alto imp
 
 **Conoce todos los detalles en el** [repositorio completo.](https://github.com/urielvelazquez/analisis-de-negocio/tree/main)
 
-### ¿Qué Funciona Realmente? Priorización de Ideas y Validación con puebas A/B
+### ¿Qué funciona realmente? Un estudio de priorización de ideas y pruebas A/B en Marketing
 
 #### Objetivo del proyecto
 Evaluar y priorizar hipótesis de crecimiento y analizar los resultados de una prueba A/B con base en datos reales de usuarios, con el fin de:
@@ -202,3 +202,14 @@ Evaluar y priorizar hipótesis de crecimiento y analizar los resultados de una p
 - Validar la efectividad de cambios en el comportamiento de compra
 
 - Tomar decisiones basadas en datos para optimizar campañas de marketing y experiencia del usuario
+
+#### Lenguaje de programación, librerías y habilidades 
+![Python](https://img.shields.io/badge/PYTHON-%232A5D9F.svg?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/PANDAS-%232A5D9F.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NUMPY-%232A5D9F.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![SciPy](https://img.shields.io/badge/SCIPY-%232A5D9F.svg?style=for-the-badge&logo=scipy&logoColor=white)
+![Datetime](https://img.shields.io/badge/DATETIME-%23009688.svg?style=for-the-badge&logo=python&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/MATPLOTLIB-%232A5D9F.svg?style=for-the-badge&logo=plotly&logoColor=white)
+![Seaborn](https://img.shields.io/badge/SEABORN-%232A5D9F.svg?style=for-the-badge&logo=seaborn&logoColor=white)
+
+
