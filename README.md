@@ -211,5 +211,10 @@ Evaluar y priorizar hipótesis de crecimiento y analizar los resultados de una p
 ![Datetime](https://img.shields.io/badge/DATETIME-%232A5D9F.svg?style=for-the-badge&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/MATPLOTLIB-%232A5D9F.svg?style=for-the-badge&logo=plotly&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/SEABORN-%232A5D9F.svg?style=for-the-badge&logo=seaborn&logoColor=white)
+![Limpieza de Datos](https://img.shields.io/badge/LIMPIEZA%20DE%20DATOS-%233B7DD8.svg?style=for-the-badge&logoColor=white)
+![Priorizar hipótesis](https://img.shields.io/badge/PRIORIZAR%20HIPÓTESIS-%233B7DD8.svg?style=for-the-badge&logoColor=white)
+![Análisis de pruebas A/B](https://img.shields.io/badge/ANÁLISIS%20DE%20PRUEBAS%20A%2FB-%233B7DD8.svg?style=for-the-badge&logoColor=white)
+![Visualización de Datos](https://img.shields.io/badge/VISUALIZACIÓN%20DE%20DATOS-%233B7DD8.svg?style=for-the-badge&logoColor=white)
+
 
 
