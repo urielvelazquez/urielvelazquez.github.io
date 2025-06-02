@@ -86,6 +86,7 @@ Identificar los factores clave que determinan el éxito comercial de un videojue
 ![Limpieza de Datos](https://img.shields.io/badge/LIMPIEZA%20DE%20DATOS-%233B7DD8.svg?style=for-the-badge&logoColor=white)
 ![Análisis de Datos](https://img.shields.io/badge/ANÁLISIS%20DE%20DATOS-%233B7DD8.svg?style=for-the-badge&logoColor=white)
 ![Análisis Estadístico](https://img.shields.io/badge/ANÁLISIS%20ESTADÍSTICO-%233B7DD8.svg?style=for-the-badge&logoColor=white)
+![Visualización de Datos](https://img.shields.io/badge/VISUALIZACIÓN%20DE%20DATOS-%233B7DD8.svg?style=for-the-badge&logoColor=white)
 
 #### Preguntas clave
 - Mira cuántos juegos fueron lanzados en diferentes años. ¿Son significativos los datos de cada período?
@@ -251,3 +252,31 @@ Basándose en estos hechos, hay que parar la prueba y considerar al Grupo B como
 ![Gráfica de la diferencia relativa en el tamaño de pedido promedio acumulado](assets/img/p3_v2.png)
 
 **Conoce todos los detalles en el** [repositorio completo.](https://github.com/urielvelazquez/tomar-decisiones-de-negocio-basadas-en-datos/tree/main)
+
+### ¿Cómo afecta el diseño a tus decisiones? Un viaje de datos por la aplicación de una Food Startup
+
+#### Objetivo del proyecto
+Analizar el comportamiento del usuario dentro de la app de una empresa emergente del sector alimenticio, con el fin de:
+
+- Identificar cuellos de botella en el embudo de ventas y optimizar la conversión en cada etapa.
+
+- Evaluar el impacto del rediseño tipográfico mediante un test A/A/B y detectar posibles efectos adversos.
+
+- Ofrecer recomendaciones basadas en datos para mejorar la experiencia del usuario y aumentar las conversiones.
+
+#### Lenguaje de programación, librerías y habilidades 
+![Python](https://img.shields.io/badge/PYTHON-%232A5D9F.svg?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/PANDAS-%232A5D9F.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NUMPY-%232A5D9F.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![SciPy](https://img.shields.io/badge/SCIPY-%232A5D9F.svg?style=for-the-badge&logo=scipy&logoColor=white)
+![re](https://img.shields.io/badge/RE-%232A5D9F.svg?style=for-the-badge&logoColor=white)
+![datetime](https://img.shields.io/badge/DATETIME-%232A5D9F.svg?style=for-the-badge&logoColor=white)
+![math](https://img.shields.io/badge/MATH-%232A5D9F.svg?style=for-the-badge&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/MATPLOTLIB-%232A5D9F.svg?style=for-the-badge&logo=plotly&logoColor=white)
+![Seaborn](https://img.shields.io/badge/SEABORN-%232A5D9F.svg?style=for-the-badge&logo=seaborn&logoColor=white)
+![Limpieza de Datos](https://img.shields.io/badge/LIMPIEZA%20DE%20DATOS-%233B7DD8.svg?style=for-the-badge&logoColor=white)
+![Análisis de Datos](https://img.shields.io/badge/ANÁLISIS%20DE%20DATOS-%233B7DD8.svg?style=for-the-badge&logoColor=white)
+![Análisis Estadístico](https://img.shields.io/badge/ANÁLISIS%20ESTADÍSTICO-%233B7DD8.svg?style=for-the-badge&logoColor=white)
+![Análisis de Negocio](https://img.shields.io/badge/ANÁLISIS%20DE%20NEGOCIO-%233B7DD8.svg?style=for-the-badge&logoColor=white)
+![Pruebas A/A/B](https://img.shields.io/badge/PRUEBAS%20A/A/B-%233B7DD8.svg?style=for-the-badge&logoColor=white)
+![Visualización de Datos](https://img.shields.io/badge/VISUALIZACIÓN%20DE%20DATOS-%233B7DD8.svg?style=for-the-badge&logoColor=white)
