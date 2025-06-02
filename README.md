@@ -216,7 +216,6 @@ Evaluar y priorizar hipótesis de crecimiento y analizar los resultados de una p
 ![Análisis de pruebas A/B](https://img.shields.io/badge/ANÁLISIS%20DE%20PRUEBAS%20A%2FB-%233B7DD8.svg?style=for-the-badge&logoColor=white)
 ![Visualización de Datos](https://img.shields.io/badge/VISUALIZACIÓN%20DE%20DATOS-%233B7DD8.svg?style=for-the-badge&logoColor=white)
 
-
 #### Preguntas clave
 - ¿Qué hipótesis muestran mayor potencial según los frameworks ICE y RICE, y cómo cambia su priorización?
 
@@ -256,7 +255,7 @@ Basándose en estos hechos, hay que parar la prueba y considerar al Grupo B como
 ### ¿Cómo afecta el diseño a tus decisiones? Un viaje de datos por la aplicación de una Food Startup
 
 #### Objetivo del proyecto
-Analizar el comportamiento del usuario dentro de la app de una empresa emergente del sector alimenticio, con el fin de:
+Analizar el comportamiento del usuario dentro de la aplicación de una empresa emergente del sector alimenticio, con el fin de:
 
 - Identificar cuellos de botella en el embudo de ventas y optimizar la conversión en cada etapa.
 
@@ -280,3 +279,18 @@ Analizar el comportamiento del usuario dentro de la app de una empresa emergente
 ![Análisis de Negocio](https://img.shields.io/badge/ANÁLISIS%20DE%20NEGOCIO-%233B7DD8.svg?style=for-the-badge&logoColor=white)
 ![Análisis de pruebas A/A/B](https://img.shields.io/badge/ANÁLISIS%20DE%20PRUEBAS%20A/A/B-%233B7DD8.svg?style=for-the-badge&logoColor=white)
 ![Visualización de Datos](https://img.shields.io/badge/VISUALIZACIÓN%20DE%20DATOS-%233B7DD8.svg?style=for-the-badge&logoColor=white)
+
+#### Preguntas clave
+- ¿Qué eventos del embudo de ventas tienen mayores tasas de abandono?
+
+- ¿El cambio en el diseño de las fuentes afecta significativamente la conversión?
+
+- ¿Hay diferencias estadísticas entre los grupos de control y el grupo de prueba?
+
+#### Metodología
+- **Preprocesamiento de datos:** Se ajustaron los nombres de columnas, se eliminaron duplicados y se filtraron registros incompletos o inconsistentes.
+
+- **Análisis del embudo de ventas:** Se identificaron eventos clave y se calcularon las tasas de conversión entre etapas para detectar puntos críticos de abandono.
+
+- **Evaluación del experimento A/A/B:** Se analizaron métricas de conversión y comportamiento entre los dos grupos de control y el grupo de prueba, aplicando pruebas de hipótesis estadísticas para evaluar el impacto del cambio de fuentes.
+
