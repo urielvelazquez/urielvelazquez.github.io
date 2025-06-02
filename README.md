@@ -294,3 +294,15 @@ Analizar el comportamiento del usuario dentro de la aplicación de una empresa e
 
 - **Evaluación del experimento A/A/B:** Se analizaron métricas de conversión y comportamiento entre los dos grupos de control y el grupo de prueba, aplicando pruebas de hipótesis estadísticas para evaluar el impacto del cambio de fuentes.
 
+#### Conclusiones generales
+- En todas las comparaciones realizadas entre el grupo con fuentes alteradas (248) y los grupos de control (246 y 247) para cada uno de los eventos, no se pudo rechazar la hipótesis nula. Esto significa que no hay diferencias estadísticamente significativas en las proporciones de usuarios que realizaron estos eventos.
+
+- La consistencia observada sugiere que los grupos de control y el grupo con fuentes alteradas se comportan de manera similar en términos de participación en estos eventos específicos.
+
+- La ausencia de diferencias significativas también valida el diseño experimental, lo que implica que cualquier cambio observado en futuros análisis podrá ser atribuido con mayor certeza a las intervenciones experimentales y no a la división original de los grupos.
+
+- Dado que los resultados muestran que las proporciones de eventos son consistentes entre los grupos, se puede concluir que el experimento fue diseñado y ejecutado correctamente, proporcionando resultados fiables para futuras pruebas y análisis.
+
+Basado en un análisis más conservador (α=0.01), los grupos no muestran diferencias significativas en todos los eventos. Esto sugiere que las fuentes alteradas no tienen un efecto significativo sobre la participación del usuario.
+
+#### Visualizaciones destacadas
