@@ -245,3 +245,9 @@ Basándose en estos hechos, hay que parar la prueba y considerar al Grupo B como
 - **Diferencia relativa para las tasas de conversión:** Al inicio, la diferencia relativa favorecía ligeramente al Grupo A. Sin embargo, el Grupo B logró un repunte sostenido, alcanzando una ventaja de aproximadamente 0.2.Aunque hubo fluctuaciones, mantuvo esa ventaja durante todo el periodo en términos de tasa de conversión acumulada.
 
 ![Gráfica de la diferencia relativa para tasas de conversión acumuladas](assets/img/p3_v1.png)
+
+- **Diferencia relativa en el tamaño de pedido promedio acumulado:** Al inicio del periodo, el Grupo A tenía un tamaño promedio de pedidos mayor. A mediados de agosto, el Grupo B superó significativamente al Grupo A, alcanzando una diferencia relativa cercana a 0.5. Aunque la ventaja disminuyó hacia el final del periodo, el Grupo B mantuvo pedidos más grandes en promedio. 
+
+![Gráfica de la diferencia relativa en el tamaño de pedido promedio acumulado](assets/img/p3_v2.png)
+
+**Conoce todos los detalles en el** [repositorio completo.](https://github.com/urielvelazquez/analisis-de-negocio/tree/main)
