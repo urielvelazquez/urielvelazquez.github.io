@@ -278,5 +278,5 @@ Analizar el comportamiento del usuario dentro de la app de una empresa emergente
 ![Análisis de Datos](https://img.shields.io/badge/ANÁLISIS%20DE%20DATOS-%233B7DD8.svg?style=for-the-badge&logoColor=white)
 ![Análisis Estadístico](https://img.shields.io/badge/ANÁLISIS%20ESTADÍSTICO-%233B7DD8.svg?style=for-the-badge&logoColor=white)
 ![Análisis de Negocio](https://img.shields.io/badge/ANÁLISIS%20DE%20NEGOCIO-%233B7DD8.svg?style=for-the-badge&logoColor=white)
-![Análisis de pruebas A/A/B](https://img.shields.io/badge/PRUEBAS%20A/A/B-%233B7DD8.svg?style=for-the-badge&logoColor=white)
+![Análisis de pruebas A/A/B](https://img.shields.io/badge/ANÁLISIS%20DE%20PRUEBAS%20A/A/B-%233B7DD8.svg?style=for-the-badge&logoColor=white)
 ![Visualización de Datos](https://img.shields.io/badge/VISUALIZACIÓN%20DE%20DATOS-%233B7DD8.svg?style=for-the-badge&logoColor=white)
