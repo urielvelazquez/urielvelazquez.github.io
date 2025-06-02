@@ -158,3 +158,10 @@ Analizar el comportamiento de los usuarios y los datos históricos de ventas, vi
   
 #### Metodología 
 - **Preprocesamiento de datos:** Se limpiaron y ajustaron los datos: se corrigieron tipos, se eliminaron duplicados y se trataron valores faltantes.
+
+- **Análisis del Comportamiento de Usuarios:** Se estudiaron métricas clave como Usuarios Activos Diarios (DAU), Usuarios Activos Semanales (WAU) y Usuarios Activos Mensuales (MAU), así como la duración promedio de las sesiones y la frecuencia de retorno de los usuarios, para comprender cómo interactúan con la plataforma.
+
+- **Análisis de Ventas:** Se evaluó el momento en que los usuarios comienzan a comprar, el tamaño promedio de compra, el número de pedidos por cliente y el Valor de Vida del Cliente (LTV), con el fin de identificar patrones de consumo.
+
+- **Evaluación de Estrategias de Marketing:** Se calcularon métricas como el Costo de Adquisición de Clientes (CAC), el Retorno de la Inversión en Marketing (ROMI) y los costos por fuente de adquisición, para identificar los canales más rentables y orientar la toma de decisiones estratégicas.
+
