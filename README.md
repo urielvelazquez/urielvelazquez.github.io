@@ -309,3 +309,7 @@ Basado en un análisis más conservador (α=0.01), los grupos no muestran difere
 - **Evolución del número de eventos registrados por día:** Se obseva que del 25 al 31 de julio de 2019, el número de eventos fue bajo y estable. A partir del 1 de agosto, hubo un incremento drástico, con un pico de 36,000 eventos. Posteriormente, la actividad se mantuvo alta pero con variaciones, posiblemente por cambios internos o comportamientos cíclicos.
 
 ![Gráfica de la evolución del número de eventos registrados por día](assets/img/p4_v1.png)
+
+- **Evolución del número de usuarios únicos registrados por día:** Se ve que del 25 al 31 de julio de 2019, el número de usuarios se mantuvo bajo, con un ligero aumento al final del periodo. El 1 de agosto se produjo un aumento significativo en la cantidad de usuarios, alcanzando un pico importante. A partir de entonces, el número se estabilizó en un rango alto con pequeñas fluctuaciones hasta el 7 de agosto de 2019.
+
+![Gráfica de la evolución del número de usuarios registrados por día](assets/img/p4_v2.png)
