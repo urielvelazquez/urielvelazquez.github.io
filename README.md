@@ -235,14 +235,13 @@ Evaluar y priorizar hipótesis de crecimiento y analizar los resultados de una p
 
 - Ni los datos sin procesar ni los filtrados revelaron diferencias estadísticamente significativas en el tamaño promedio de los pedidos entre los grupos.
 
-- La gráfica que muestra la [diferencia relativa para las tasas de conversión](#grafica-conversiones) entre los grupos dice que los resultados del Grupo B son mejores y parecen mantenerse en ese sentido a lo largo del periodo.
+- La gráfica que muestra la `diferencia relativa para las tasas de conversión` entre los grupos dice que los resultados del Grupo B son mejores y parecen mantenerse en ese sentido a lo largo del periodo.
 
-- La gráfica que muestra la [diferencia relativa en el tamaño de pedido promedio acumulado] entre los grupos dice que los resultados del Grupo B son mejores día tras día y actualmente son un 30% más altos que los del Grupo A.
+- La gráfica que muestra la `diferencia relativa en el tamaño de pedido promedio acumulado` entre los grupos dice que los resultados del Grupo B son mejores día tras día y actualmente son un 30% más altos que los del Grupo A.
 
 Basándose en estos hechos, hay que parar la prueba y considerar al Grupo B como líder. No tiene sentido continuar, ya que la probabilidad de que el Grupo B resulte ser mejor que el Grupo A es real.
 
 #### Visualizaciones destacadas
 - **Diferencia relativa para las tasas de conversión:** Al inicio, la diferencia relativa favorecía ligeramente al Grupo A. Sin embargo, el Grupo B logró un repunte sostenido, alcanzando una ventaja de aproximadamente 0.2.Aunque hubo fluctuaciones, mantuvo esa ventaja durante todo el periodo en términos de tasa de conversión acumulada.
 
-<h2 id="grafica-conversiones">Visualización: Diferencia relativa para tasas de conversión</h2>
 ![Gráfica de la diferencia relativa para tasas de conversión acumuladas](assets/img/p3_v1.png)
