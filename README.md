@@ -190,4 +190,4 @@ Es clave diversificar la inversión entre fuentes estables y fuentes de alto imp
 
 ![Gráfica de la evolución mensual de los costos por fuente de adquisición](assets/img/p2_v3.png)
 
-**Conoce todos los detalles en el** [repositorio completo.](https://github.com/urielvelazquez/metricasmarketing/tree/main)
+**Conoce todos los detalles en el** [repositorio completo.](https://github.com/urielvelazquez/analisis-de-negocio/tree/main)
