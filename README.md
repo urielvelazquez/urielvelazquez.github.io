@@ -208,7 +208,7 @@ Evaluar y priorizar hipótesis de crecimiento y analizar los resultados de una p
 ![Pandas](https://img.shields.io/badge/PANDAS-%232A5D9F.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NUMPY-%232A5D9F.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![SciPy](https://img.shields.io/badge/SCIPY-%232A5D9F.svg?style=for-the-badge&logo=scipy&logoColor=white)
-![Datetime](https://img.shields.io/badge/DATETIME-%23009688.svg?style=for-the-badge&logo=python&logoColor=white)
+![Datetime](https://img.shields.io/badge/DATETIME-%232A5D9F.svg?style=for-the-badge&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/MATPLOTLIB-%232A5D9F.svg?style=for-the-badge&logo=plotly&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/SEABORN-%232A5D9F.svg?style=for-the-badge&logo=seaborn&logoColor=white)
 
