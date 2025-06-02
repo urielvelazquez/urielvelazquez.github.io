@@ -244,4 +244,5 @@ Basándose en estos hechos, hay que parar la prueba y considerar al Grupo B como
 #### Visualizaciones destacadas
 - **Diferencia relativa para las tasas de conversión:** Al inicio, la diferencia relativa favorecía ligeramente al Grupo A. Sin embargo, el Grupo B logró un repunte sostenido, alcanzando una ventaja de aproximadamente 0.2.Aunque hubo fluctuaciones, mantuvo esa ventaja durante todo el periodo en términos de tasa de conversión acumulada.
 
+<h2 id="grafica-conversiones">Visualización: Diferencia relativa para tasas de conversión</h2>
 ![Gráfica de la diferencia relativa para tasas de conversión acumuladas](assets/img/p3_v1.png)
