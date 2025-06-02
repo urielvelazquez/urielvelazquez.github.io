@@ -181,3 +181,7 @@ Es clave diversificar la inversión entre fuentes estables y fuentes de alto imp
 - **Evolución del tráfico de usuarios en la plataforma Showz:** Después de analizar las visitas por días, semanas y meses, se observa un movimiento constante con subidas y bajadas marcadas en cada periodo. El pico más alto de tráfico ocurre entre la tercera semana de noviembre y la segunda de diciembre. Durante las vacaciones de verano, las visitas disminuyen, ya que los usuarios priorizan actividades sociales y recreativas.
 
 ![Gráfica de evolución del tráfico de usuarios](assets/img/p2_v1.png)
+
+- **LTV (Valor del ciclo de vida del cliente) por cohorte:** Cada cliente de la primera cohorte representó un ingreso de $11.08. Además, la cohorte de septiembre de 2017 representó ingresos de $13.44 por cliente. Algunas cohortes, como las que iniciaron en los meses de invierno tienden a tener valores más altos de vida del cliente en comparación con otras.
+
+![Gráfica del valor de vida del cliente](assets/img/p2_v2.png)
