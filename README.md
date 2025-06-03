@@ -359,3 +359,26 @@ Identificar los factores clave que indican la pérdida de clientes en Model Fitn
 
 - **Clustering:** Se segmentaron los clientes en grupos utilizando K-means para identificar comportamientos similares y calcular las tasas de cancelación por clúster.
 
+#### Conclusiones generales
+- Se identificaron cinco clústeres de usuarios con características distintas en edad, visitas, duración de membresía, gastos y tasa de cancelación.
+
+- El clúster 3 tiene la tasa de cancelación más alta; el clúster 2 la más baja, mostrando mayor lealtad.
+
+- El clúster 4 agrupa a usuarios jóvenes y frecuentes; el clúster 2 gasta más en cargos adicionales, mientras que el 3 gasta menos y es más propenso a cancelar.
+
+#### Recomendaciones para la estrategia de retención
+
+- **Clúster 3** – Alta cancelación: Mejorar experiencia con clases gratuitas y descuentos; brindar atención personalizada para entender motivos de baja.
+
+- **Clúster 2** – Alta lealtad: Ofrecer beneficios exclusivos y servicios premium personalizados.
+
+- **Clúster 4** – Jóvenes con alta frecuencia: Diseñar promociones y contratos flexibles; reforzar programas de referidos.
+
+- **Clúster 1** – Buena retención: Recompensar antigüedad y adaptar servicios a sus necesidades mediante encuestas.
+
+- **Clúster 0** – Cancelación moderada: Combinar retención y adquisición con promociones atractivas.
+
+#### Visualizaciones destacadas
+- **Matriz de correlacción:** Las variables con mayor correlación negativa con la cancelación son: duración del contrato, meses restantes de contrato, tiempo de membresía y frecuencia de clases. Se observa que los usuarios más constantes, con contratos largos y asistencia frecuente, tienden a permanecer más tiempo. También destaca la fuerte relación entre frecuencia mensual y total, y entre duración del contrato y meses restantes.
+
+![Gráfica de matriz de correlacción](assets/img/p5_v1.png)
