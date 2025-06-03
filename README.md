@@ -319,3 +319,21 @@ Basado en un análisis más conservador (α=0.01), los grupos no muestran difere
 ![Gráfica del periodo de tiempo de los datos](assets/img/p4_v3.png)
 
 **Conoce todos los detalles en el** [repositorio completo.](https://github.com/urielvelazquez/proyecto-integrado-productos-alimenticios/tree/main)
+
+### ¿Por Qué Dejan de Asistir al Gimnasio? Un Análisis de Datos Reales en Model Fitness
+
+#### Objetivo del proyecto
+Identificar los factores clave que indican la pérdida de clientes en Model Fitness mediante el análisis de datos de asistencia y perfiles digitales, con el fin de:
+
+- Detectar señales tempranas de abandono
+
+- Diseñar estrategias de retención basadas en datos
+
+- Mejorar la fidelización y prolongar la relación cliente-gimnasio
+
+#### Lenguaje de programación, librerías y habilidades
+![Python](https://img.shields.io/badge/PYTHON-%232A5D9F.svg?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/PANDAS-%232A5D9F.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/SCIKIT--LEARN-%232A5D9F.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/MATPLOTLIB-%232A5D9F.svg?style=for-the-badge&logo=plotly&logoColor=white)
+![Seaborn](https://img.shields.io/badge/SEABORN-%232A5D9F.svg?style=for-the-badge&logo=seaborn&logoColor=white)
