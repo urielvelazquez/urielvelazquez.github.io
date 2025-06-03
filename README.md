@@ -342,3 +342,20 @@ Identificar los factores clave que indican la pérdida de clientes en Model Fitn
 ![Análisis de Datos](https://img.shields.io/badge/ANÁLISIS%20DE%20DATOS-%233B7DD8.svg?style=for-the-badge&logoColor=white)
 ![Modelos de Predicción](https://img.shields.io/badge/MODELOS%20DE%20PREDICCIÓN-%233B7DD8.svg?style=for-the-badge&logoColor=white)
 ![Visualización de Datos](https://img.shields.io/badge/VISUALIZACIÓN%20DE%20DATOS-%233B7DD8.svg?style=for-the-badge&logoColor=white)
+
+#### Preguntas clave
+- ¿Qué características diferencian a los clientes leales de los que abandonan?
+
+- ¿Qué tan efectivo es un modelo predictivo para anticipar la cancelación de usuarios?
+
+- ¿Cómo se pueden segmentar los clientes para diseñar estrategias personalizadas de retención?
+
+#### Metodología
+- **Preprocesamiento de datos:** Se limpiaron y estandarizaron los datos, se eliminaron duplicados y se manejaron valores ausentes para asegurar la calidad del análisis.
+
+- **Análisis exploratorio de datos (EDA):** Se analizaron estadísticas descriptivas y distribuciones. Se compararon características de clientes que permanecieron frente a los que cancelaron, y se exploraron correlaciones entre variables.
+
+- **Modelado predictivo:** Se entrenaron modelos de clasificación binaria (regresión logística y bosque aleatorio) para predecir la probabilidad de cancelación en el siguiente mes. Se evaluó el desempeño con métricas como precisión, exactitud y recall.
+
+- **Clustering:** Se segmentaron los clientes en grupos utilizando K-means para identificar comportamientos similares y calcular las tasas de cancelación por clúster.
+
