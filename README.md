@@ -320,7 +320,7 @@ Basado en un análisis más conservador (α=0.01), los grupos no muestran difere
 
 **Conoce todos los detalles en el** [repositorio completo.](https://github.com/urielvelazquez/proyecto-integrado-productos-alimenticios/tree/main)
 
-### ¿Por Qué Dejan de Asistir al Gimnasio? Un Análisis de Datos Reales en Model Fitness
+### ¿Por qué dejan de asistir al gimnasio? Un análisis de datos reales en Model Fitness
 
 #### Objetivo del proyecto
 Identificar los factores clave que indican la pérdida de clientes en Model Fitness mediante el análisis de datos de asistencia y perfiles digitales, con el fin de:
@@ -387,4 +387,4 @@ Identificar los factores clave que indican la pérdida de clientes en Model Fitn
 
 ![Gráfica de análisis de clustering jerárquico](assets/img/p5_v2.png)
 
-**Conoce todos los detalles en el** [repositorio completo.](https://github.com/urielvelazquez//tree/main)
+**Conoce todos los detalles en el** [repositorio completo.](https://github.com/urielvelazquez/pronosticos-y-predicciones/tree/main)
