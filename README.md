@@ -88,26 +88,6 @@ Identificar los factores clave que determinan el éxito comercial de un videojue
 ![Análisis Estadístico](https://img.shields.io/badge/ANÁLISIS%20ESTADÍSTICO-%233B7DD8.svg?style=for-the-badge&logoColor=white)
 ![Visualización de Datos](https://img.shields.io/badge/VISUALIZACIÓN%20DE%20DATOS-%233B7DD8.svg?style=for-the-badge&logoColor=white)
 
-#### Preguntas clave
-- Mira cuántos juegos fueron lanzados en diferentes años. ¿Son significativos los datos de cada período?
-
-- ¿Qué plataformas son líderes en ventas? ¿Cuáles crecen y cuáles se reducen? Elige varias plataformas potencialmente rentables.
-
-- Echa un vistazo a la distribución general de los juegos por género. ¿Qué se puede decir de los géneros más rentables? ¿Puedes generalizar acerca de los géneros con ventas altas y bajas?
-
-#### Metodología 
-- **Preprocesamiento de datos:** Se limpiaron y ajustaron los datos: se corrigieron tipos, se eliminaron duplicados y se trataron valores faltantes (como los marcados como “TBD”). También se creó una nueva columna que sumaba las ventas totales por juego, unificando todas las regiones.
-
-- **Análisis exploratorio de datos (EDA):** Se revisó la cantidad de juegos por año, las plataformas con más ventas y cómo cambian con el tiempo. También se analizaron géneros, calificaciones y diferencias regionales. Se usaron visualizaciones y estadísticas básicas para entender los patrones más importantes.
-
-- **Análisis estadístico de datos:** Se hicieron comparaciones entre plataformas y géneros, usando pruebas de hipótesis. Se midieron relaciones entre calificaciones y ventas para entender si influyen en el éxito. Todo con base en datos reales y evidencia clara.
-
-#### Conclusión general
-Este proyecto ha permitido construir una base sólida de análisis a partir de datos bien preparados y explorados, lo que permitió generar un modelo confiable para el año 2017.
-Gracias a este trabajo, quienes toman decisiones dentro del negocio cuentan con información útil para identificar juegos prometedores, planear campañas más efectivas y maximizar los resultados.
-
-Los hallazgos obtenidos no solo mejoran el rendimiento a corto plazo, sino que también aportan valor estratégico a largo plazo en un sector altamente competitivo y rentable como el de los videojuegos.
-
 #### Visualizaciones destacadas
 - **Evolución del número de videojuegos lanzados por año a lo largo del tiempo:** El sector vivió un crecimiento sostenido desde 1995, con un boom entre 2000 y 2009 impulsado por la revolución tecnológica. Sin embargo, la Gran Recesión causada por la crisis hipotecaria de EE.UU. provocó una fuerte caída en la producción y ventas, afectando gravemente a la industria de los videojuegos y otros sectores de consumo.
 
@@ -148,36 +128,6 @@ Analizar el comportamiento de los usuarios y los datos históricos de ventas, vi
 ![Análisis de Cohortes](https://img.shields.io/badge/ANÁLISIS%20DE%20COHORTES-%233B7DD8.svg?style=for-the-badge&logoColor=white)
 ![Visualización de Datos](https://img.shields.io/badge/VISUALIZACIÓN%20DE%20DATOS-%233B7DD8.svg?style=for-the-badge&logoColor=white)
 
-#### Preguntas clave
-- ¿Cuántas personas usan el sitio web diariamente, semanalmente y mensualmente?
-
-- ¿Qué canales de adquisición generan clientes con mayor LTV?
-
-- ¿Qué combinación de fuente más dispositivo muestra mejor rendimiento?
-
-- ¿Qué métricas son determinantes para decidir en qué canales se debe invertir?
-  
-#### Metodología 
-- **Preprocesamiento de datos:** Se limpiaron y ajustaron los datos: se corrigieron tipos, se eliminaron duplicados y se trataron valores faltantes.
-
-- **Análisis del Comportamiento de Usuarios:** Se estudiaron métricas clave como Usuarios Activos Diarios (DAU), Usuarios Activos Semanales (WAU) y Usuarios Activos Mensuales (MAU), así como la duración promedio de las sesiones y la frecuencia de retorno de los usuarios, para comprender cómo interactúan con la plataforma.
-
-- **Análisis de Ventas:** Se evaluó el momento en que los usuarios comienzan a comprar, el tamaño promedio de compra, el número de pedidos por cliente y el Valor de Vida del Cliente (LTV), con el fin de identificar patrones de consumo.
-
-- **Evaluación de Estrategias de Marketing:** Se calcularon métricas como el Costo de Adquisición de Clientes (CAC), el Retorno de la Inversión en Marketing (ROMI) y los costos por fuente de adquisición, para identificar los canales más rentables y orientar la toma de decisiones estratégicas.
-
-#### Conclusión general
-El análisis realizado permitió evaluar las estrategias de marketing con base en métricas clave como el CAC (Costo de Adquisición de Clientes), el ROMI (Retorno de la Inversión en Marketing) y el LTV (Valor del Ciclo de Vida del Cliente). Estas métricas revelaron insights sólidos para la optimización de campañas y asignación de presupuesto.
-
-#### Recomendaciones
-- Fuente 1: por su estabilidad y eficiencia, ideal para estrategias sostenidas a largo plazo.
-
-- Fuente 2: por su consistencia en resultados y bajo CAC, representa una inversión inteligente y continua.
-
-- Fuente 4: puede ser rentable en periodos de alta demanda, pero requiere seguimiento constante para asegurar que su alto CAC se compense con un LTV favorable.
-
-Es clave diversificar la inversión entre fuentes estables y fuentes de alto impacto, adaptando la estrategia a las condiciones del mercado. Mientras el LTV se mantenga elevado, es válido invertir incluso en canales con CAC más alto, siempre que el ROMI siga siendo positivo.
-
 #### Visualizaciones destacadas
 - **Evolución del tráfico de usuarios en la plataforma Showz:** Después de analizar las visitas por días, semanas y meses, se observa un movimiento constante con subidas y bajadas marcadas en cada periodo. El pico más alto de tráfico ocurre entre la tercera semana de noviembre y la segunda de diciembre. Durante las vacaciones de verano, las visitas disminuyen, ya que los usuarios priorizan actividades sociales y recreativas.
 
@@ -215,31 +165,6 @@ Evaluar y priorizar hipótesis de crecimiento y analizar los resultados de una p
 ![Priorizar hipótesis](https://img.shields.io/badge/PRIORIZAR%20HIPÓTESIS-%233B7DD8.svg?style=for-the-badge&logoColor=white)
 ![Análisis de pruebas A/B](https://img.shields.io/badge/ANÁLISIS%20DE%20PRUEBAS%20A%2FB-%233B7DD8.svg?style=for-the-badge&logoColor=white)
 ![Visualización de Datos](https://img.shields.io/badge/VISUALIZACIÓN%20DE%20DATOS-%233B7DD8.svg?style=for-the-badge&logoColor=white)
-
-#### Preguntas clave
-- ¿Qué hipótesis muestran mayor potencial según los frameworks ICE y RICE, y cómo cambia su priorización?
-
-- ¿Cuál es la diferencia estadísticamente significativa en la conversión y tamaño promedio de pedido entre los grupos A y B?
-
-- ¿Debería detenerse o continuar la prueba A/B con base en los resultados obtenidos y las anomalías detectadas?
-
-#### Metodología
-- **Preprocesamiento de datos:** Se limpiaron y ajustaron los datos: se corrigieron tipos, se eliminaron duplicados y se trataron valores faltantes.
-
-- **Priorizar hipótesis:** Se aplicaron los frameworks ICE (Impact, Confidence, Effort) y RICE (Reach, Impact, Confidence, Effort) para evaluar y priorizar las hipótesis propuestas por el departamento de marketing.
-
-- **Análisis de pruebas A/B:** Se analizaron los datos para calcular las tasas de conversión diarias por grupo y se aplicaron pruebas de hipótesis estadísticas sobre conversiones y tamaños de pedidos con y sin datos filtrados.
-
-#### Conclusión general
-- Los datos sin procesar y los filtrados revelaron diferencias estadísticamente significativas en la conversión entre los grupos.
-
-- Ni los datos sin procesar ni los filtrados revelaron diferencias estadísticamente significativas en el tamaño promedio de los pedidos entre los grupos.
-
-- La gráfica que muestra la `diferencia relativa para las tasas de conversión` entre los grupos dice que los resultados del Grupo B son mejores y parecen mantenerse en ese sentido a lo largo del periodo.
-
-- La gráfica que muestra la `diferencia relativa en el tamaño de pedido promedio acumulado` entre los grupos dice que los resultados del Grupo B son mejores día tras día y actualmente son un 30% más altos que los del Grupo A.
-
-Basándose en estos hechos, hay que parar la prueba y considerar al Grupo B como líder. No tiene sentido continuar, ya que la probabilidad de que el Grupo B resulte ser mejor que el Grupo A es real.
 
 #### Visualizaciones destacadas
 - **Diferencia relativa para las tasas de conversión:** Al inicio, la diferencia relativa favorecía ligeramente al Grupo A. Sin embargo, el Grupo B logró un repunte sostenido, alcanzando una ventaja de aproximadamente 0.2.Aunque hubo fluctuaciones, mantuvo esa ventaja durante todo el periodo en términos de tasa de conversión acumulada.
@@ -280,31 +205,6 @@ Analizar el comportamiento del usuario dentro de la aplicación de una empresa e
 ![Análisis de pruebas A/A/B](https://img.shields.io/badge/ANÁLISIS%20DE%20PRUEBAS%20A/A/B-%233B7DD8.svg?style=for-the-badge&logoColor=white)
 ![Visualización de Datos](https://img.shields.io/badge/VISUALIZACIÓN%20DE%20DATOS-%233B7DD8.svg?style=for-the-badge&logoColor=white)
 
-#### Preguntas clave
-- ¿Qué eventos del embudo de ventas tienen mayores tasas de abandono?
-
-- ¿El cambio en el diseño de las fuentes afecta significativamente la conversión?
-
-- ¿Hay diferencias estadísticas entre los grupos de control y el grupo de prueba?
-
-#### Metodología
-- **Preprocesamiento de datos:** Se ajustaron los nombres de columnas, se eliminaron duplicados y se filtraron registros incompletos o inconsistentes.
-
-- **Análisis del embudo de ventas:** Se identificaron eventos clave y se calcularon las tasas de conversión entre etapas para detectar puntos críticos de abandono.
-
-- **Evaluación del experimento A/A/B:** Se analizaron métricas de conversión y comportamiento entre los dos grupos de control y el grupo de prueba, aplicando pruebas de hipótesis estadísticas para evaluar el impacto del cambio de fuentes.
-
-#### Conclusiones generales
-- En todas las comparaciones realizadas entre el grupo con fuentes alteradas (248) y los grupos de control (246 y 247) para cada uno de los eventos, no se pudo rechazar la hipótesis nula. Esto significa que no hay diferencias estadísticamente significativas en las proporciones de usuarios que realizaron estos eventos.
-
-- La consistencia observada sugiere que los grupos de control y el grupo con fuentes alteradas se comportan de manera similar en términos de participación en estos eventos específicos.
-
-- La ausencia de diferencias significativas también valida el diseño experimental, lo que implica que cualquier cambio observado en futuros análisis podrá ser atribuido con mayor certeza a las intervenciones experimentales y no a la división original de los grupos.
-
-- Dado que los resultados muestran que las proporciones de eventos son consistentes entre los grupos, se puede concluir que el experimento fue diseñado y ejecutado correctamente, proporcionando resultados fiables para futuras pruebas y análisis.
-
-Basado en un análisis más conservador (α=0.01), los grupos no muestran diferencias significativas en todos los eventos. Esto sugiere que las fuentes alteradas no tienen un efecto significativo sobre la participación del usuario.
-
 #### Visualizaciones destacadas
 - **Evolución del número de eventos registrados por día:** Se obseva que del 25 al 31 de julio de 2019, el número de eventos fue bajo y estable. A partir del 1 de agosto, hubo un incremento drástico, con un pico de 36,000 eventos. Posteriormente, la actividad se mantuvo alta pero con variaciones, posiblemente por cambios internos o comportamientos cíclicos.
 
@@ -342,41 +242,6 @@ Identificar los factores clave que indican la pérdida de clientes en Model Fitn
 ![Análisis de Datos](https://img.shields.io/badge/ANÁLISIS%20DE%20DATOS-%233B7DD8.svg?style=for-the-badge&logoColor=white)
 ![Modelos de Predicción](https://img.shields.io/badge/MODELOS%20DE%20PREDICCIÓN-%233B7DD8.svg?style=for-the-badge&logoColor=white)
 ![Visualización de Datos](https://img.shields.io/badge/VISUALIZACIÓN%20DE%20DATOS-%233B7DD8.svg?style=for-the-badge&logoColor=white)
-
-#### Preguntas clave
-- ¿Qué características diferencian a los clientes leales de los que abandonan?
-
-- ¿Qué tan efectivo es un modelo predictivo para anticipar la cancelación de usuarios?
-
-- ¿Cómo se pueden segmentar los clientes para diseñar estrategias personalizadas de retención?
-
-#### Metodología
-- **Preprocesamiento de datos:** Se limpiaron y estandarizaron los datos, se eliminaron duplicados y se manejaron valores ausentes para asegurar la calidad del análisis.
-
-- **Análisis exploratorio de datos (EDA):** Se analizaron estadísticas descriptivas y distribuciones. Se compararon características de clientes que permanecieron frente a los que cancelaron, y se exploraron correlaciones entre variables.
-
-- **Modelado predictivo:** Se entrenaron modelos de clasificación binaria (regresión logística y bosque aleatorio) para predecir la probabilidad de cancelación en el siguiente mes. Se evaluó el desempeño con métricas como precisión, exactitud y recall.
-
-- **Clustering:** Se segmentaron los clientes en grupos utilizando K-means para identificar comportamientos similares y calcular las tasas de cancelación por clúster.
-
-#### Conclusiones generales
-- Se identificaron cinco clústeres de usuarios con características distintas en edad, visitas, duración de membresía, gastos y tasa de cancelación.
-
-- El clúster 3 tiene la tasa de cancelación más alta; el clúster 2 la más baja, mostrando mayor lealtad.
-
-- El clúster 4 agrupa a usuarios jóvenes y frecuentes; el clúster 2 gasta más en cargos adicionales, mientras que el 3 gasta menos y es más propenso a cancelar.
-
-#### Recomendaciones para la estrategia de retención
-
-- **Clúster 3** – Alta cancelación: Mejorar experiencia con clases gratuitas y descuentos; brindar atención personalizada para entender motivos de baja.
-
-- **Clúster 2** – Alta lealtad: Ofrecer beneficios exclusivos y servicios premium personalizados.
-
-- **Clúster 4** – Jóvenes con alta frecuencia: Diseñar promociones y contratos flexibles; reforzar programas de referidos.
-
-- **Clúster 1** – Buena retención: Recompensar antigüedad y adaptar servicios a sus necesidades mediante encuestas.
-
-- **Clúster 0** – Cancelación moderada: Combinar retención y adquisición con promociones atractivas.
 
 #### Visualizaciones destacadas
 - **Matriz de correlacción:** Las variables con mayor correlación negativa con la cancelación son: duración del contrato, meses restantes de contrato, tiempo de membresía y frecuencia de clases. Se observa que los usuarios más constantes, con contratos largos y asistencia frecuente, tienden a permanecer más tiempo. También destaca la fuerte relación entre frecuencia mensual y total, y entre duración del contrato y meses restantes.
