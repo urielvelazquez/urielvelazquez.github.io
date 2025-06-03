@@ -317,3 +317,5 @@ Basado en un análisis más conservador (α=0.01), los grupos no muestran difere
 - **Periodo de tiempo de los datos:** Se puede observar que la actividad de eventos fue muy baja o casi nula antes del 1 de Agosto de 2019. A partir del 1 de Agosto, hubo un aumento representativo en la cantidad de eventos. El pico máximo de eventos se registró alrededor del 5 de Agosto de 2019. Después del pico, la cantidad de eventos se mantuvo alta pero con variaciones hasta el final de periodo.
 
 ![Gráfica del periodo de tiempo de los datos](assets/img/p4_v3.png)
+
+**Conoce todos los detalles en el** [repositorio completo.](https://github.com/urielvelazquez/proyecto-integrado-productos-alimenticios/tree/main)
