@@ -76,18 +76,6 @@ Identificar los factores clave que determinan el éxito comercial de un videojue
 
 - Detectar oportunidades para campañas publicitarias efectivas
 
-#### Lenguaje de programación, librerías y habilidades 
-![Python](https://img.shields.io/badge/PYTHON-%232A5D9F.svg?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/PANDAS-%232A5D9F.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NUMPY-%232A5D9F.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![SciPy](https://img.shields.io/badge/SCIPY-%232A5D9F.svg?style=for-the-badge&logo=scipy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/MATPLOTLIB-%232A5D9F.svg?style=for-the-badge&logo=plotly&logoColor=white)
-![Seaborn](https://img.shields.io/badge/SEABORN-%232A5D9F.svg?style=for-the-badge&logo=seaborn&logoColor=white)
-![Limpieza de Datos](https://img.shields.io/badge/LIMPIEZA%20DE%20DATOS-%233B7DD8.svg?style=for-the-badge&logoColor=white)
-![Análisis de Datos](https://img.shields.io/badge/ANÁLISIS%20DE%20DATOS-%233B7DD8.svg?style=for-the-badge&logoColor=white)
-![Análisis Estadístico](https://img.shields.io/badge/ANÁLISIS%20ESTADÍSTICO-%233B7DD8.svg?style=for-the-badge&logoColor=white)
-![Visualización de Datos](https://img.shields.io/badge/VISUALIZACIÓN%20DE%20DATOS-%233B7DD8.svg?style=for-the-badge&logoColor=white)
-
 #### Visualizaciones destacadas
 - **Evolución del número de videojuegos lanzados por año a lo largo del tiempo:** El sector vivió un crecimiento sostenido desde 1995, con un boom entre 2000 y 2009 impulsado por la revolución tecnológica. Sin embargo, la Gran Recesión causada por la crisis hipotecaria de EE.UU. provocó una fuerte caída en la producción y ventas, afectando gravemente a la industria de los videojuegos y otros sectores de consumo.
 
@@ -116,18 +104,6 @@ Analizar el comportamiento de los usuarios y los datos históricos de ventas, vi
 
 - Optimizar estrategias de marketing para mejorar la rentabilidad y eficiencia de futuras campañas
 
-#### Lenguaje de programación, librerías y habilidades 
-![Python](https://img.shields.io/badge/PYTHON-%232A5D9F.svg?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/PANDAS-%232A5D9F.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NUMPY-%232A5D9F.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![SciPy](https://img.shields.io/badge/SCIPY-%232A5D9F.svg?style=for-the-badge&logo=scipy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/MATPLOTLIB-%232A5D9F.svg?style=for-the-badge&logo=plotly&logoColor=white)
-![Seaborn](https://img.shields.io/badge/SEABORN-%232A5D9F.svg?style=for-the-badge&logo=seaborn&logoColor=white)
-![Limpieza de Datos](https://img.shields.io/badge/LIMPIEZA%20DE%20DATOS-%233B7DD8.svg?style=for-the-badge&logoColor=white)
-![Análisis de Datos](https://img.shields.io/badge/ANÁLISIS%20DE%20DATOS-%233B7DD8.svg?style=for-the-badge&logoColor=white)
-![Análisis de Cohortes](https://img.shields.io/badge/ANÁLISIS%20DE%20COHORTES-%233B7DD8.svg?style=for-the-badge&logoColor=white)
-![Visualización de Datos](https://img.shields.io/badge/VISUALIZACIÓN%20DE%20DATOS-%233B7DD8.svg?style=for-the-badge&logoColor=white)
-
 #### Visualizaciones destacadas
 - **Evolución del tráfico de usuarios en la plataforma Showz:** Después de analizar las visitas por días, semanas y meses, se observa un movimiento constante con subidas y bajadas marcadas en cada periodo. El pico más alto de tráfico ocurre entre la tercera semana de noviembre y la segunda de diciembre. Durante las vacaciones de verano, las visitas disminuyen, ya que los usuarios priorizan actividades sociales y recreativas.
 
@@ -154,18 +130,6 @@ Evaluar y priorizar hipótesis de crecimiento y analizar los resultados de una p
 
 - Tomar decisiones basadas en datos para optimizar campañas de marketing y experiencia del usuario
 
-#### Lenguaje de programación, librerías y habilidades 
-![Python](https://img.shields.io/badge/PYTHON-%232A5D9F.svg?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/PANDAS-%232A5D9F.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NUMPY-%232A5D9F.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![SciPy](https://img.shields.io/badge/SCIPY-%232A5D9F.svg?style=for-the-badge&logo=scipy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/MATPLOTLIB-%232A5D9F.svg?style=for-the-badge&logo=plotly&logoColor=white)
-![Seaborn](https://img.shields.io/badge/SEABORN-%232A5D9F.svg?style=for-the-badge&logo=seaborn&logoColor=white)
-![Limpieza de Datos](https://img.shields.io/badge/LIMPIEZA%20DE%20DATOS-%233B7DD8.svg?style=for-the-badge&logoColor=white)
-![Priorizar hipótesis](https://img.shields.io/badge/PRIORIZAR%20HIPÓTESIS-%233B7DD8.svg?style=for-the-badge&logoColor=white)
-![Análisis de pruebas A/B](https://img.shields.io/badge/ANÁLISIS%20DE%20PRUEBAS%20A%2FB-%233B7DD8.svg?style=for-the-badge&logoColor=white)
-![Visualización de Datos](https://img.shields.io/badge/VISUALIZACIÓN%20DE%20DATOS-%233B7DD8.svg?style=for-the-badge&logoColor=white)
-
 #### Visualizaciones destacadas
 - **Diferencia relativa para las tasas de conversión:** Al inicio, la diferencia relativa favorecía ligeramente al Grupo A. Sin embargo, el Grupo B logró un repunte sostenido, alcanzando una ventaja de aproximadamente 0.2.Aunque hubo fluctuaciones, mantuvo esa ventaja durante todo el periodo en términos de tasa de conversión acumulada.
 
@@ -187,23 +151,6 @@ Analizar el comportamiento del usuario dentro de la aplicación de una empresa e
 - Evaluar el impacto del rediseño tipográfico mediante un test A/A/B y detectar posibles efectos adversos.
 
 - Ofrecer recomendaciones basadas en datos para mejorar la experiencia del usuario y aumentar las conversiones.
-
-#### Lenguaje de programación, librerías y habilidades 
-![Python](https://img.shields.io/badge/PYTHON-%232A5D9F.svg?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/PANDAS-%232A5D9F.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NUMPY-%232A5D9F.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![SciPy](https://img.shields.io/badge/SCIPY-%232A5D9F.svg?style=for-the-badge&logo=scipy&logoColor=white)
-![re](https://img.shields.io/badge/RE-%232A5D9F.svg?style=for-the-badge&logoColor=white)
-![datetime](https://img.shields.io/badge/DATETIME-%232A5D9F.svg?style=for-the-badge&logoColor=white)
-![math](https://img.shields.io/badge/MATH-%232A5D9F.svg?style=for-the-badge&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/MATPLOTLIB-%232A5D9F.svg?style=for-the-badge&logo=plotly&logoColor=white)
-![Seaborn](https://img.shields.io/badge/SEABORN-%232A5D9F.svg?style=for-the-badge&logo=seaborn&logoColor=white)
-![Limpieza de Datos](https://img.shields.io/badge/LIMPIEZA%20DE%20DATOS-%233B7DD8.svg?style=for-the-badge&logoColor=white)
-![Análisis de Datos](https://img.shields.io/badge/ANÁLISIS%20DE%20DATOS-%233B7DD8.svg?style=for-the-badge&logoColor=white)
-![Análisis Estadístico](https://img.shields.io/badge/ANÁLISIS%20ESTADÍSTICO-%233B7DD8.svg?style=for-the-badge&logoColor=white)
-![Análisis de Negocio](https://img.shields.io/badge/ANÁLISIS%20DE%20NEGOCIO-%233B7DD8.svg?style=for-the-badge&logoColor=white)
-![Análisis de pruebas A/A/B](https://img.shields.io/badge/ANÁLISIS%20DE%20PRUEBAS%20A/A/B-%233B7DD8.svg?style=for-the-badge&logoColor=white)
-![Visualización de Datos](https://img.shields.io/badge/VISUALIZACIÓN%20DE%20DATOS-%233B7DD8.svg?style=for-the-badge&logoColor=white)
 
 #### Visualizaciones destacadas
 - **Evolución del número de eventos registrados por día:** Se obseva que del 25 al 31 de julio de 2019, el número de eventos fue bajo y estable. A partir del 1 de agosto, hubo un incremento drástico, con un pico de 36,000 eventos. Posteriormente, la actividad se mantuvo alta pero con variaciones, posiblemente por cambios internos o comportamientos cíclicos.
@@ -230,18 +177,6 @@ Identificar los factores clave que indican la pérdida de clientes en Model Fitn
 - Diseñar estrategias de retención basadas en datos
 
 - Mejorar la fidelización y prolongar la relación cliente-gimnasio
-
-#### Lenguaje de programación, librerías y habilidades
-![Python](https://img.shields.io/badge/PYTHON-%232A5D9F.svg?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/PANDAS-%232A5D9F.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![SciPy](https://img.shields.io/badge/SCIPY-%232A5D9F.svg?style=for-the-badge&logo=scipy&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/SCIKIT--LEARN-%232A5D9F.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/MATPLOTLIB-%232A5D9F.svg?style=for-the-badge&logo=plotly&logoColor=white)
-![Seaborn](https://img.shields.io/badge/SEABORN-%232A5D9F.svg?style=for-the-badge&logo=seaborn&logoColor=white)
-![Limpieza de Datos](https://img.shields.io/badge/LIMPIEZA%20DE%20DATOS-%233B7DD8.svg?style=for-the-badge&logoColor=white)
-![Análisis de Datos](https://img.shields.io/badge/ANÁLISIS%20DE%20DATOS-%233B7DD8.svg?style=for-the-badge&logoColor=white)
-![Modelos de Predicción](https://img.shields.io/badge/MODELOS%20DE%20PREDICCIÓN-%233B7DD8.svg?style=for-the-badge&logoColor=white)
-![Visualización de Datos](https://img.shields.io/badge/VISUALIZACIÓN%20DE%20DATOS-%233B7DD8.svg?style=for-the-badge&logoColor=white)
 
 #### Visualizaciones destacadas
 - **Matriz de correlacción:** Las variables con mayor correlación negativa con la cancelación son: duración del contrato, meses restantes de contrato, tiempo de membresía y frecuencia de clases. Se observa que los usuarios más constantes, con contratos largos y asistencia frecuente, tienden a permanecer más tiempo. También destaca la fuerte relación entre frecuencia mensual y total, y entre duración del contrato y meses restantes.
