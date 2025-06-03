@@ -382,3 +382,9 @@ Identificar los factores clave que indican la pérdida de clientes en Model Fitn
 - **Matriz de correlacción:** Las variables con mayor correlación negativa con la cancelación son: duración del contrato, meses restantes de contrato, tiempo de membresía y frecuencia de clases. Se observa que los usuarios más constantes, con contratos largos y asistencia frecuente, tienden a permanecer más tiempo. También destaca la fuerte relación entre frecuencia mensual y total, y entre duración del contrato y meses restantes.
 
 ![Gráfica de matriz de correlacción](assets/img/p5_v1.png)
+
+- **Análisis de clustering jerárquico:** El dendrograma muestra cómo los usuarios del gimnasio se agrupan jerárquicamente según similitud. Aunque se esperaban cinco clústeres, se observan cuatro, probablemente por la alta similitud entre algunos grupos. Las alturas de fusión revelan qué tan distintos o similares son los segmentos.
+
+![Gráfica de análisis de clustering jerárquico](assets/img/p5_v2.png)
+
+**Conoce todos los detalles en el** [repositorio completo.](https://github.com/urielvelazquez//tree/main)
